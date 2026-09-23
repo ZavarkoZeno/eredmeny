@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eredmeny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+456e50ba44dbf4105a4f5f7692179bfd4765fdb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4363a201bca913b2e4025a238597bce7a4b8ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("eredmeny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eredmeny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
